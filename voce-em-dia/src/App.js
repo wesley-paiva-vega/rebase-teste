@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Add diretamente da branch master
         </a>
       </header>
     </div>
