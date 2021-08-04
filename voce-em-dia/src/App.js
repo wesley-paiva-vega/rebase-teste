@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Add diretamente da branch master para o mundo !!!
+          Texto editado na branch master
         </a>
       </header>
     </div>
