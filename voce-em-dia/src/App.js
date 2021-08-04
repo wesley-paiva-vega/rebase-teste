@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Texto editado pra dar visible pra a branch mod_01
+          Texto editado pra dar visible pra a branch mod_01.
         </p>
         <a
           className="App-link"
